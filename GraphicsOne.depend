@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1575911976 source:/home/adeyemi/game-projects/sfml-game/GraphicsOne/main.cpp
+	<SFML/Graphics.hpp>
+
